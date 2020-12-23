@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+elasticsearch.iml
+.idea
+
+es-high-level-rest-client/es-high-level-rest-client.iml
+es-high-level-rest-client/target
